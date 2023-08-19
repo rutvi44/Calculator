@@ -1,0 +1,17 @@
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\bin\Debug\net6.0-windows\MistryR1.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\bin\Debug\net6.0-windows\MistryR1.deps.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\bin\Debug\net6.0-windows\MistryR1.runtimeconfig.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\bin\Debug\net6.0-windows\MistryR1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\bin\Debug\net6.0-windows\MistryR1.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.MainForm.resources
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.csproj.GenerateResource.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.AssemblyInfoInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.AssemblyInfo.cs
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\refint\MistryR1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\MistryR1.genruntimeconfig.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass1\MistryR1\MistryR1\obj\Debug\net6.0-windows\ref\MistryR1.dll
