@@ -1,10 +1,4 @@
-/*
- * Name of project: InClass1_MistryR1
- * Purpose: To calculate value input by user
- *
- * Revision Histrory:
- *      Rutvi Mistry, 2023.05.16: Created
- */
+
 namespace MistryR1
 {
     public partial class MainForm : Form
